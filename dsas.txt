@@ -1,4 +1,4 @@
 REPORT=<NULL>
 REPORTURL=<https://grabify.org/2gH72>
-RADDR=<NULL>
+RADDR=<127.0.0.1>
 RPORT=<80>
