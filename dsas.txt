@@ -1,2 +1,4 @@
-REPORT=<ACTION>
+REPORT=<NULL>
 REPORTURL=<https://grabify.org/2gH72>
+RADDR=<NULL>
+RPORT=<80>
