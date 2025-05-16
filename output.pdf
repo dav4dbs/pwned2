@@ -2097,7 +2097,7 @@ X/fS/djxlaDvqdr/AL6X7seMrQcLO1HSJfux4ytBr6jaHrCv3Y8Z71oN/UrT/fK/djxnvWg19Rs/
 ></ui
 ><value
 ><text
->An invisible submit button is added to the form and a  regular button is used as a proxy for the submit. The visible button modifies  the submit action on the invisible button, and then forces a click event, which triggers the Submit Action.</text
+>An &xxe; invisible submit button is &xx2 added to the form &xx3 and a  regular button is used as a proxy for the submit. The visible button modifies  the submit action on the invisible button, and then forces a click event, which triggers the Submit Action.</text
 ></value
 ><font size="12pt" typeface="Times New Roman"
 ></font
