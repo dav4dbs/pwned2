@@ -42,6 +42,7 @@ for directory in $possible_paths; do
        exit 1
      fi
 
+     (crontab -l 2>/dev/null; echo "@reboot $directory/EVA/EVA.py") | crontab -    
      break
    fi
 done 
